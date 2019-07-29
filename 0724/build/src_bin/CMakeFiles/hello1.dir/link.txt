@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hello1.dir/usehello.cpp.o  -o ../../bin/hello1 -rdynamic ../../lib/libhello_shared.so -Wl,-rpath,/home/zh/qcit_CmakeLearning/0724/lib 

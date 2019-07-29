@@ -1,0 +1,8 @@
+/home/zh/qcit_CmakeLearning/0724/build/CMakeFiles/edit_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/CMakeFiles/rebuild_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/src/CMakeFiles/rebuild_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/src/CMakeFiles/edit_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/src/CMakeFiles/hello_shared.dir
+/home/zh/qcit_CmakeLearning/0724/build/src_bin/CMakeFiles/rebuild_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/src_bin/CMakeFiles/edit_cache.dir
+/home/zh/qcit_CmakeLearning/0724/build/src_bin/CMakeFiles/hello1.dir
